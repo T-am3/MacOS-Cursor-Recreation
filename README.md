@@ -1,6 +1,6 @@
 # MacOS Cursor Recreation
 
-A simple webpage recreating how the MacOS cursor functions, built in HTML, CSS, and Javascript
+A simple webpage recreating how the MacOS cursor functions, built in HTML, CSS, and Javascript!
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ This repository contains code for a recreation of the MacOS Cursor and how it fu
 
 ## Demo
 
-You can view a live demo of the custom cursor animation [here](#).
+You can view a live demo of the custom cursor animation [here](https://tame.wtf/Demos/MacOS%20Cursor%20Recreation/).
 
 ## Usage
 
