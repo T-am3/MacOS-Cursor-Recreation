@@ -21,7 +21,7 @@ This repository contains code for a recreation of the MacOS Cursor and how it fu
 
 ## Demo
 
-You can view a live demo of the custom cursor animation [here](https://tame.wtf/Demos/MacOS%20Cursor%20Recreation/).
+You can view a live demo of the custom cursor animation [here](https://tame.wtf/demos/macos).
 
 ## Usage
 
